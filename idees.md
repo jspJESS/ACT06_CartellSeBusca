@@ -30,9 +30,11 @@ Descriviu el personatge triat amb tres trets que ajudin a reconèixer-lo. Poden 
 
 Inventeu l'últim lloc i moment en què se l'ha vist, i una pista que ajudi a imaginar què hi feia.
 
-- **Lloc:**
-- **Moment:**
-- **Pista:**
+- Lloc: A la sala de servidors de l'Ajuntament, envoltat d'ordinadors amb pantalles verdes.
+
+- Moment: Ahir a mitjanit, quan totes les pantalles de la ciutat van començar a mostrar missatges estranys.
+
+- Pista: Es va trobar un cable connectat a un ordinador amb una endevinalla a la pantalla i el missatge: «Si em voleu trobar, primer m'haureu d'endevinar!».
 
 ## Torn 4 · Recompensa
 
