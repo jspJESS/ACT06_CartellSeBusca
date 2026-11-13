@@ -48,8 +48,8 @@ Una PS5 + GTA6 + una medalla digital daurada amb el nom del vencedor gravat.
 
 Escriviu una frase curta i cridanera per al cartell. Afegiu també què ha de fer qui trobi el personatge, sense posar-hi cap dada personal.
 
-- **Eslògan:**
-- **Si el trobes:**
+- Eslògan: «Resol l'enigma, reinicia el sistema i atura el caos del Doctor Glitch!»
+- Si el trobes: No t'acostis a ell amb cap mòbil, rellotge intel·ligent ni dispositiu connectat perquè el pot piratejar a l'instant. Desconnecta el Wi-Fi de la zona, anota l'endevinalla que aparegui a la pantalla més propera i avisa de seguida el punt d'informació de l'Ajuntament.
 
 ## Torn 6 · Proposta de disseny
 
