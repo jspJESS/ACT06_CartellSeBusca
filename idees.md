@@ -22,9 +22,9 @@ Per què el busquem? Perquè ha piratejat tots els ordinadors de la ciutat i ha 
 
 Descriviu el personatge triat amb tres trets que ajudin a reconèixer-lo. Poden ser físics, de caràcter o algun objecte que sempre porta.
 
-- [Tret 1]
-- [Tret 2]
-- [Tret 3]
+- Porta una bata de científic plena de codis informàtics i unes ulleres que brillen de color verd.
+- Té els cabells despentinats i un somriure malvat que apareix cada vegada que aconsegueix piratejar un ordinador.
+- Sempre porta un portàtil misteriós amb el qual pot controlar qualsevol dispositiu electrònic de la ciutat.
 
 ## Torn 3 · On l'hem vist?
 
