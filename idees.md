@@ -8,13 +8,15 @@ Anoteu aquí les propostes de cada torn. Parleu-les entre tots i procureu que el
 
 Proposeu tres personatges inventats i una frase sobre cadascun. Després, escolliu-ne un entre tots i escriviu-lo a «Personatge triat».
 
-1. **Proposta A:** [nom i idea]
-2. **Proposta B:** [nom i idea]
-3. **Proposta C:** [nom i idea]
+1. Proposta A: El Fantasma Pixel – Un fantasma digital que entra als ordinadors i fa desaparèixer els arxius misteriosament.
 
-**Personatge triat pel grup:** [nom]
+2. Proposta B: Doctor Glitch – Un científic boig que crea errors informàtics i provoca el caos a la ciutat.
 
-**Per què el busquem?** [motiu divertit o misteriós]
+3. Proposta C: L'Ombra Misteriosa – Un personatge que només apareix de nit i deixa missatges secrets per tot arreu.
+
+Personatge triat pel grup: Doctor Glitch
+
+Per què el busquem? Perquè ha piratejat tots els ordinadors de la ciutat i ha substituït les contrasenyes per endevinalles impossibles.
 
 ## Torn 2 · Com és?
 
