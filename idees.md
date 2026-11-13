@@ -40,7 +40,9 @@ Inventeu l'últim lloc i moment en què se l'ha vist, i una pista que ajudi a im
 
 Proposeu una recompensa divertida i no monetària per a qui ajudi a trobar-lo.
 
-**Recompensa:** [idea]
+**Recompensa:** 
+
+Una PS5 + GTA6 + una medalla digital daurada amb el nom del vencedor gravat.
 
 ## Torn 5 · Eslògan i què fer si el trobem
 
